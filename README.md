@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DFS Maze Visualization](https://github.com/JoeFarag-00/Mazer-Solver)
 
-- 🌱 I’m currently learning **Python 3**
+- 🌱 I’m currently learning **Python GUI**
 
 - 📄 Visit me on [youssefarag.me](youssefarag.me)
 
