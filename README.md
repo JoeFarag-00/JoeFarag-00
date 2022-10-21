@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Python 3**
 
-- 📫 How to reach me **youssef.m.raghed00@gmail.com**
+- 📄 Visit me on [youssefarag.me](youssefarag.me)
+
+- 📫 How to reach me on **youssef.m.raghed00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
