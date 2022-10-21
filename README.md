@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Python 3**
 
-- 👨‍💻 All of my projects are available at [youssefarag.me](youssefarag.me)
+- 📝 Visit my website [youssefarag.me](youssefarag.me)
 
 - 📫 How to reach me **youssef.m.raghed00@gmail.com**
-
-- 📄 Know about my experiences [---](---)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
