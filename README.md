@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joefarag-00" alt="joefarag-00" /></a> </p>
 
-- 🔭 I’m currently working on [LPP Solver](https://github.com/JoeFarag-00/LPPSolver)
+- 🔭 I’m currently working on [Chat GPT Tkinter GUI](https://github.com/JoeFarag-00/Chat-GPT-GUI)
 
 - 🌱 I’m currently learning **Python 3**
 
