@@ -11,7 +11,7 @@
 
 - 📄 Visit me on [youssefarag.me](youssefarag.me)
 
-- 📫 How to reach me on **youssef.m.raghed00@gmail.com**
+- 📫 Reach me on **youssef.m.raghed00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
