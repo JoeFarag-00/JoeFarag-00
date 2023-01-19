@@ -6,12 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joefarag-00" alt="joefarag-00" /></a> </p>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="mina" /> 
   </p>
 
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/CS_Man.gif" alt="mina" /></p>
 
 - 🔭 I’m currently working on [Chat GPT Tkinter GUI](https://github.com/JoeFarag-00/Chat-GPT-GUI)
 
