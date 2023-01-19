@@ -27,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joefarag-00&show_icons=true&locale=en&layout=compact" alt="joefarag-00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joefarag-00&show_icons=true&locale=en" alt="joefarag-00" /></p>
+<img src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/line-neon.gif" width="100%">
