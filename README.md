@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">I'm a passionate Computer Science student looking forward to tackling life hurdles, and most importantly, bugs.</h3>
 
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img align="center" src="https://github.com/JoeFarag-00/JoeFarag-00/blob/main/assets/Monke.gif" alt="mina" /></p>
+<p>&nbsp&nbsp&nbsp&nbsp&nb&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img align="center" src="https://github.com/JoeFarag-00/JoeFarag-00/blob/main/assets/Monke.gif" alt="mina" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joefarag-00&label=Profile%20views&color=0e75b6&style=flat" alt="joefarag-00" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joefarag-00" alt="joefarag-00" /></a> </p>
