@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">I'm a passionate Computer Science student looking forward to tackling life hurdles, and most importantly, bugs.</h3>
 
