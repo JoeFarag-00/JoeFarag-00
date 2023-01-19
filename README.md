@@ -29,4 +29,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joefarag-00&show_icons=true&locale=en&layout=compact" alt="joefarag-00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joefarag-00&show_icons=true&locale=en" alt="joefarag-00" /></p>
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joefarag-00&theme=gotham&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joefarag-00&layout=compact&theme=gotham&langs_count=8"/>
+</div>
+
 <img src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/line-neon.gif" width="100%">
+
+
