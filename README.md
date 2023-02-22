@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Egy-Uni-Review WebApp](https://github.com/JoeFarag-00/EgyUniReviewWebApp)
 
-- 🌱 I’m currently learning **Python 3**
+- 🌱 I’m currently learning **Next.js**
 
 - 📄 Visit me on [youssefarag.me](youssefarag.me)
 
