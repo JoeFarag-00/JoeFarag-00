@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📄 Visit me on [youssefarag.me](youssefarag.me)
+- 📄 Visit me on [youssefarag.me]
 
 - 📫 Reach me on **youssef.m.raghed00@gmail.com**
 
