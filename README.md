@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joefarag-00&label=Profile%20views&color=0e75b6&style=flat" alt="joefarag-00" /> </p>
 <p><img align="right" src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/CS_Man.gif" alt="mina" /></p>
 
-- 🔭 I’m currently working on [Arabic-News-Categorizer-v2.0](https://github.com/JoeFarag-00/Arabic-News-Categorizer-v2.0)
+- 🔭 I’m currently working on [CMC](https://github.com/JoeFarag-00/CM-Chat)
 
 - 🌱 I’m currently learning **Next.js**
 
