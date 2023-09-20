@@ -17,7 +17,7 @@
 
 - 📫 Reach me on **youssef.m.raghed00@gmail.com**
   
-- 📄 [Résumé](https://drive.google.com/file/d/1s-1KJQOlbrfoCrvT3pUDTkV4tSC56_Fh/view?usp=drive_link) 
+- 📄 [Résumé](https://drive.google.com/file/d/1vEkv_blE946AG35rETL0yvO0J_Hw9lZJ/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
