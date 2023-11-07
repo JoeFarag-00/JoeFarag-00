@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joefarag-00&label=Profile%20views&color=0e75b6&style=flat" alt="joefarag-00" /> </p>
 <p><img align="right" src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/CS_Man.gif" alt="mina" /></p>
 
-- 🔭 I’m currently working on [Moti-Based Culture Simulation](https://github.com/JoeFarag-00/Moti-Based-Culture-Simulation)
+- 🔭 I’m currently working on [Generative Agents](https://github.com/JoeFarag-00/Moti-Based-Culture-Simulation)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React-Native**
 
 - 📄 Visit me on **youssefarag.me**
 
