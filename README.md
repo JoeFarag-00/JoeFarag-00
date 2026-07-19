@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">I'm a passionate Computer Science student looking forward to tackling life hurdles, and most importantly, bugs.</h3>
 
 <p align="center"> <img align="center" src="https://github.com/JoeFarag-00/JoeFarag-00/blob/main/assets/Monke.gif" alt="mina" /> </p>
 
@@ -9,10 +8,6 @@
 <p><img align="right" src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/CS_Man.gif" alt="mina" /></p>
 
 - 🔭 I’m currently working on [Job](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
-
-- 🌱 I’m currently learning **LangChain**
-
-- 📄 Visit me on **youssefarag.me**
 
 - 📫 Reach me on **youssef.m.raghed00@gmail.com**
   
@@ -23,12 +18,3 @@
 <a href="https://linkedin.com/in/youssef-mohamed-ba49b0236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-mohamed-ba49b0236" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/joefarag00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joefarag00" height="30" width="40" /></a>
 </p>
-
-<div style="align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joefarag-00&layout=compact&theme=dracula&column=7&langs_count=8"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joefarag-00&theme=dracula&column=7&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
-</div>
-<img src="https://github.com/JoeFarag-00/JoeFarag-00/blob/main/assets/banner-footer.gif" width="100%">
-<img src="https://raw.githubusercontent.com/JoeFarag-00/JoeFarag-00/main/assets/line-neon.gif" width="100%">
-
-
